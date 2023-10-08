@@ -1,0 +1,3 @@
+class infoAuth {
+  String? KinfoAuthName;
+}
