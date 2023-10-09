@@ -1,11 +1,11 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_applicatioaserwerwr/Layoutscreens/home%20_layout.dart';
 
 import 'package:flutter_applicatioaserwerwr/screens/authScreens/Vwithphonenumper.dart';
 import 'package:flutter_applicatioaserwerwr/screens/authScreens/codesnd.dart';
 import 'package:flutter_applicatioaserwerwr/screens/authScreens/loginscreen.dart';
 
-import 'package:flutter_applicatioaserwerwr/llayoutScreens/home%20_layout.dart';
 import 'package:flutter_applicatioaserwerwr/screens/splashAuth%20scereens/splash1.dart';
 import 'package:flutter_applicatioaserwerwr/screens/splashAuth%20scereens/splash2.dart';
 import 'package:flutter_applicatioaserwerwr/screens/splashAuth%20scereens/splash3.dart';

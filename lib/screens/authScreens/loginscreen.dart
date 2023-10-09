@@ -3,8 +3,7 @@ import 'dart:math';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_applicatioaserwerwr/Func/acountenclass.dart';
-import 'package:flutter_applicatioaserwerwr/llayoutScreens/AutthLayeout.dart';
-import 'package:flutter_applicatioaserwerwr/llayoutScreens/home%20_layout.dart';
+import 'package:flutter_applicatioaserwerwr/Layoutscreens/home%20_layout.dart';
 
 import 'package:flutter_applicatioaserwerwr/screens/authScreens/Vwithphonenumper.dart';
 

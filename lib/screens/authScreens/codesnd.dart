@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_applicatioaserwerwr/llayoutScreens/AutthLayeout.dart';
-import 'package:flutter_applicatioaserwerwr/llayoutScreens/home%20_layout.dart';
-import 'package:flutter_applicatioaserwerwr/screens/authScreens/Vwithphonenumper.dart';
+import 'package:flutter_applicatioaserwerwr/Layoutscreens/AutthLayeout.dart';
 import 'package:flutter_applicatioaserwerwr/widget/formfelid.dart';
 
 class codesnd extends StatefulWidget {

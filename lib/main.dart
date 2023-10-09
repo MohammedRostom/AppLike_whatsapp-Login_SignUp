@@ -4,11 +4,11 @@ import 'dart:math';
 
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_applicatioaserwerwr/Layoutscreens/AutthLayeout.dart';
+import 'package:flutter_applicatioaserwerwr/Layoutscreens/home%20_layout.dart';
 import 'package:flutter_applicatioaserwerwr/firebase_options.dart';
-import 'package:flutter_applicatioaserwerwr/llayoutScreens/AutthLayeout.dart';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:flutter_applicatioaserwerwr/llayoutScreens/home%20_layout.dart';
 import 'package:flutter_applicatioaserwerwr/screens/HomeScreenstaps/chat.dart';
 import 'package:flutter_applicatioaserwerwr/screens/HomeScreenstaps/chatMassege.dart';
 import 'package:flutter_applicatioaserwerwr/screens/HomeScreenstaps/settinges.dart';
